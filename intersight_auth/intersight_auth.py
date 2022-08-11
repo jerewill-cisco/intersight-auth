@@ -10,6 +10,7 @@ from base64 import b64encode
 from email.utils import formatdate
 from urllib.parse import urlparse
 
+
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import hashes, serialization
 from cryptography.hazmat.primitives.asymmetric import padding, ec
