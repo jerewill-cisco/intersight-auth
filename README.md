@@ -1,6 +1,7 @@
 [![CI Tests](https://github.com/cgascoig/intersight-auth/actions/workflows/ci.yml/badge.svg)](https://github.com/cgascoig/intersight-auth/actions/workflows/ci.yml)
 # intersight-auth
 
+
 This module provides an authentication helper for requests to make it easy to make [Intersight API](https://intersight.com/apidocs/introduction/overview/) calls using [requests](https://requests.readthedocs.io/en/latest/). 
 
 ## Features
