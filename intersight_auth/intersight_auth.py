@@ -4,6 +4,7 @@
 
     author: Chris Gascoigne (cgascoig@cisco.com), Jeremy Williams, David Soper
 """
+
 # pylint: disable=too-few-public-methods
 import re
 from base64 import b64encode
